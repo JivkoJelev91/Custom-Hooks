@@ -11,3 +11,4 @@ export { default as useContextLocation } from "./useContextLocation";
 export { default as useCounter } from "./useCounter";
 export { default as useInterval } from "./useInterval";
 export { default as useArray } from "./useArray";
+export { default as useAudio } from "./useAudio";
